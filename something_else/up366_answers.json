@@ -1,0 +1,1413 @@
+{
+  "books": {
+    "59A0044287BEAB997F7C03AE4B9FC101": {
+      "bookName": "听力培优（高中）",
+      "jobs": {
+        "452eb04875384b7c921e46d30cdc626f": {
+          "testName": "10.19-25日听力练习2",
+          "jobName": "10.19-25日听力练习2",
+          "question_count": 33,
+          "extracted_at": "2026-10-24T21:42:46.455116",
+          "questions": [
+            {
+              "qid": "29633A5C48F5B7B8CFC1AB546E925329",
+              "parent_qid": null,
+              "qtype": 1,
+              "stem": "Which is the man’s favorite film?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "<em>The Book of Boba Fett</em>."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "<em>The Mandalorian</em>."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "<em>Solo</em>."
+                }
+              ],
+              "answer": "B",
+              "media": "media/M14-T1-ZC.mp3",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "916FF95E93765351610463CA8FD86848",
+              "parent_qid": null,
+              "qtype": 1,
+              "stem": "Why was the man late?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "He left his train ticket at home."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "He bought himself a coffee."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "His watch was slow."
+                }
+              ],
+              "answer": "C",
+              "media": "media/M14-T2-ZC.mp3",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "77D6D73ABC01BEB9C5E171FDE1170A1E",
+              "parent_qid": null,
+              "qtype": 1,
+              "stem": "What does the man probably do?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "He’s a teacher."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "He’s a firefighter."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "He’s an accountant."
+                }
+              ],
+              "answer": "B",
+              "media": "media/M14-T3-ZC.mp3",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "5FDBB2BE3E18E4EF1302EED923EA6174",
+              "parent_qid": null,
+              "qtype": 1,
+              "stem": "What is the probable relationship between the speakers?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "Neighbors."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "Mother and son."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "Grandfather and granddaughter."
+                }
+              ],
+              "answer": "A",
+              "media": "media/M14-T4-ZC.mp3",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "A13A8600F341150B554B3F9F3C479992",
+              "parent_qid": null,
+              "qtype": 1,
+              "stem": "What are the speakers mainly talking about?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "Selecting a TV program."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "Living in the countryside."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "Improving people’s health."
+                }
+              ],
+              "answer": "B",
+              "media": "media/M14-T5-ZC.mp3",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "0818514FF4C1EB57BB5E6953C594F6B9",
+              "parent_qid": null,
+              "qtype": 99,
+              "stem": "听第6段材料，回答第6、7题。",
+              "options": [],
+              "answer": "",
+              "media": "media/M14-T6-ZC.mp3",
+              "source": "2\\page1.js",
+              "is_container": true
+            },
+            {
+              "qid": "51EAD6723F37EE871FF442EDBFDC40C1",
+              "parent_qid": "0818514FF4C1EB57BB5E6953C594F6B9",
+              "qtype": 1,
+              "stem": "Where does the conversation probably take place?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "In an office."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "In a hotel."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "In a taxi."
+                }
+              ],
+              "answer": "B",
+              "media": "",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "136679E5505B13E2B3CA5CAF9816FE61",
+              "parent_qid": "0818514FF4C1EB57BB5E6953C594F6B9",
+              "qtype": 1,
+              "stem": "When will the man probably leave for the insurance company?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "At 1:30 p.m."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "At 1:40 p.m."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "At 2:00 p.m."
+                }
+              ],
+              "answer": "A",
+              "media": "",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "77F8B138889F14DDA7ECD4F754FB6E7F",
+              "parent_qid": null,
+              "qtype": 99,
+              "stem": "听第7段材料，回答第8、9题。",
+              "options": [],
+              "answer": "",
+              "media": "media/M14-T7-ZC.mp3",
+              "source": "2\\page1.js",
+              "is_container": true
+            },
+            {
+              "qid": "3B3C57FACCD7F687ACA50FEEC84432C1",
+              "parent_qid": "77F8B138889F14DDA7ECD4F754FB6E7F",
+              "qtype": 1,
+              "stem": "How was the computer damaged?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "It got wet."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "It suffered high heat."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "It was dropped on the floor."
+                }
+              ],
+              "answer": "B",
+              "media": "",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "6245DDBF56A9AA52AC5912A4A9ACFC30",
+              "parent_qid": "77F8B138889F14DDA7ECD4F754FB6E7F",
+              "qtype": 1,
+              "stem": "What will the woman do in the end?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "Update her computer system."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "Have her computer repaired."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "Purchase a new computer."
+                }
+              ],
+              "answer": "C",
+              "media": "",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "E26A66E571CDD1B6CE8BCF9B2804C940",
+              "parent_qid": null,
+              "qtype": 99,
+              "stem": "听第8段材料，回答第10至12题。",
+              "options": [],
+              "answer": "",
+              "media": "media/M14-T8-ZC.mp3",
+              "source": "2\\page1.js",
+              "is_container": true
+            },
+            {
+              "qid": "86DE2EFDBD785165F8E60E773DC71EBF",
+              "parent_qid": "E26A66E571CDD1B6CE8BCF9B2804C940",
+              "qtype": 1,
+              "stem": "What is the woman’s next step after finishing writing her book?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "Editing it."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "Sending it to a book publisher."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "Self-publishing it as an e-book."
+                }
+              ],
+              "answer": "A",
+              "media": "",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "EF3E178B06C819DEACB341B858E0BCDD",
+              "parent_qid": "E26A66E571CDD1B6CE8BCF9B2804C940",
+              "qtype": 1,
+              "stem": "What does the woman think of the traditional way of publishing books?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "Simple."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "Popular."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "Old-fashioned."
+                }
+              ],
+              "answer": "C",
+              "media": "",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "F257F093E4D415C9D807F5240BC22ABC",
+              "parent_qid": "E26A66E571CDD1B6CE8BCF9B2804C940",
+              "qtype": 1,
+              "stem": "What does the man suggest the woman do in the end?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "Meet the needs of young people."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "Take the advice of successful writers."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "Have it available in print and as an e-book."
+                }
+              ],
+              "answer": "C",
+              "media": "",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "4C91B35E2F40F93093349E35FAC1EF54",
+              "parent_qid": null,
+              "qtype": 99,
+              "stem": "听第9段材料，回答第13至16题。",
+              "options": [],
+              "answer": "",
+              "media": "media/M14-T9-ZC.mp3",
+              "source": "2\\page1.js",
+              "is_container": true
+            },
+            {
+              "qid": "92842AE61F518D2E9CC80EB6EAACA95C",
+              "parent_qid": "4C91B35E2F40F93093349E35FAC1EF54",
+              "qtype": 1,
+              "stem": "Who is probably the woman?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "David’s co-worker."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "David’s college friend."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "David’s Chinese teacher."
+                }
+              ],
+              "answer": "A",
+              "media": "",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "154BE0944C1CFAE605161D0DCF557C2F",
+              "parent_qid": "4C91B35E2F40F93093349E35FAC1EF54",
+              "qtype": 1,
+              "stem": "What does David probably do currently?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "He is a professor."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "He is an engineer."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "He is a product designer."
+                }
+              ],
+              "answer": "C",
+              "media": "",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "609DD6CE9FB0CE864A08F3EF6C76E41F",
+              "parent_qid": "4C91B35E2F40F93093349E35FAC1EF54",
+              "qtype": 1,
+              "stem": "Where is the woman probably from?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "China."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "America."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "Singapore."
+                }
+              ],
+              "answer": "A",
+              "media": "",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "DFB73AE3956F93DA3CC6F5C12EA32F5C",
+              "parent_qid": "4C91B35E2F40F93093349E35FAC1EF54",
+              "qtype": 1,
+              "stem": "Which new habit has David developed?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "Learning Chinese."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "Collecting movie tickets."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "Watching Chinese TV series."
+                }
+              ],
+              "answer": "C",
+              "media": "",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "C01D7036AF57D7810CA215E0DC8D6B41",
+              "parent_qid": null,
+              "qtype": 99,
+              "stem": "听第10段材料，回答第17至20题。",
+              "options": [],
+              "answer": "",
+              "media": "media/M14-T10-ZC.mp3",
+              "source": "2\\page1.js",
+              "is_container": true
+            },
+            {
+              "qid": "A2996302CB749DA9D5BFDB7DA1EAD8FB",
+              "parent_qid": "C01D7036AF57D7810CA215E0DC8D6B41",
+              "qtype": 1,
+              "stem": "Who is the speaker talking to?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "Employees."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "Customers."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "Students."
+                }
+              ],
+              "answer": "A",
+              "media": "",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "02A993C6893F71464E36947534FB8A0A",
+              "parent_qid": "C01D7036AF57D7810CA215E0DC8D6B41",
+              "qtype": 1,
+              "stem": "Where was the inventor of the first two-wheeled bicycle from?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "Italy."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "Germany."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "Scotland."
+                }
+              ],
+              "answer": "B",
+              "media": "",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "00DAF3D393CED42764F8BD1E137872FA",
+              "parent_qid": "C01D7036AF57D7810CA215E0DC8D6B41",
+              "qtype": 1,
+              "stem": "How did Denis Johnson improve the model of the bicycle?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "He used a wooden frame."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "He used rubber wheels."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "He used tires with air."
+                }
+              ],
+              "answer": "A",
+              "media": "",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "301579809959382C3044B396EE07E453",
+              "parent_qid": "C01D7036AF57D7810CA215E0DC8D6B41",
+              "qtype": 1,
+              "stem": "When was the golden age of bicycles?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "The 1810s."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "The 1880s."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "The 1890s."
+                }
+              ],
+              "answer": "C",
+              "media": "",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "0BAFDD210FAFE63B01004122A9B052BE",
+              "parent_qid": null,
+              "qtype": 9,
+              "stem": "<p>rural living</p>",
+              "options": [],
+              "answer": "乡村生活",
+              "media": "media/2-ZC.mp3",
+              "source": "1\\questions\\0BAFDD210FAFE63B01004122A9B052BE\\questionData.js",
+              "is_container": false
+            },
+            {
+              "qid": "0D88D6EC89D89797FFB3373783162961",
+              "parent_qid": null,
+              "qtype": 9,
+              "stem": "<p>leading producers of mountain bikes</p>",
+              "options": [],
+              "answer": "山地自行车的主要生产商",
+              "media": "media/7-ZC.mp3",
+              "source": "1\\questions\\0D88D6EC89D89797FFB3373783162961\\questionData.js",
+              "is_container": false
+            },
+            {
+              "qid": "23BD081548DAC1578B7D51DE3FAF945E",
+              "parent_qid": null,
+              "qtype": 9,
+              "stem": "<p>Did you back them up?</p>",
+              "options": [],
+              "answer": "你给它们备份了吗？",
+              "media": "media/3-ZC.mp3",
+              "source": "1\\questions\\23BD081548DAC1578B7D51DE3FAF945E\\questionData.js",
+              "is_container": false
+            },
+            {
+              "qid": "2658F64A2C857CB04EC92E7DF6559DAB",
+              "parent_qid": null,
+              "qtype": 9,
+              "stem": "<p>in the accounting firm</p>",
+              "options": [],
+              "answer": "在会计师事务所",
+              "media": "media/1-ZC.mp3",
+              "source": "1\\questions\\2658F64A2C857CB04EC92E7DF6559DAB\\questionData.js",
+              "is_container": false
+            },
+            {
+              "qid": "7EFC77AB341AF4C0F2754345A173A372",
+              "parent_qid": null,
+              "qtype": 9,
+              "stem": "<p>introduce tires with air</p>",
+              "options": [],
+              "answer": "推出了充气轮胎",
+              "media": "media/8-ZC.mp3",
+              "source": "1\\questions\\7EFC77AB341AF4C0F2754345A173A372\\questionData.js",
+              "is_container": false
+            },
+            {
+              "qid": "8D94DE06807FCB68D5D57A1E8BAD2FCC",
+              "parent_qid": null,
+              "qtype": 9,
+              "stem": "<p>internal processors</p>",
+              "options": [],
+              "answer": "内部处理器",
+              "media": "media/4-ZC.mp3",
+              "source": "1\\questions\\8D94DE06807FCB68D5D57A1E8BAD2FCC\\questionData.js",
+              "is_container": false
+            },
+            {
+              "qid": "E9632DA474762C4D246CF394651A2A45",
+              "parent_qid": null,
+              "qtype": 9,
+              "stem": "<p>self-publishing books</p>",
+              "options": [],
+              "answer": "自助出版的书籍",
+              "media": "media/6-ZC.mp3",
+              "source": "1\\questions\\E9632DA474762C4D246CF394651A2A45\\questionData.js",
+              "is_container": false
+            },
+            {
+              "qid": "F56C2BA9ABBE77B11CF070E030BF7E9C",
+              "parent_qid": null,
+              "qtype": 9,
+              "stem": "<p>give you a discount on</p>",
+              "options": [],
+              "answer": "在……上给你打折",
+              "media": "media/5-ZC.mp3",
+              "source": "1\\questions\\F56C2BA9ABBE77B11CF070E030BF7E9C\\questionData.js",
+              "is_container": false
+            }
+          ]
+        },
+        "95b49cc75c894acb912837f22825c863": {
+          "testName": "10.19-25日听力练习1",
+          "jobName": "10.19-25日听力练习1",
+          "question_count": 35,
+          "extracted_at": "2026-10-24T21:42:46.656599",
+          "questions": [
+            {
+              "qid": "3B12B42786F13B15E5CB9E3FDB7C0F04",
+              "parent_qid": null,
+              "qtype": 1,
+              "stem": "What does the man suggest the woman do?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "Visit the physics department."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "Teach herself the courses."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "Wait for his help."
+                }
+              ],
+              "answer": "A",
+              "media": "media/M13-T1-ZC.mp3",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "B5BAE9C006F55218A262015D40BF8E4C",
+              "parent_qid": null,
+              "qtype": 1,
+              "stem": "What has the man been looking for?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "His glasses."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "His homework."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "His sandwiches."
+                }
+              ],
+              "answer": "A",
+              "media": "media/M13-T2-ZC.mp3",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "D97D781007CA3C88EA487796EC54705E",
+              "parent_qid": null,
+              "qtype": 1,
+              "stem": "What does the woman mean?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "Joe has too few dreams."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "Joe is bad at putting forward ideas."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "Joe doesn’t put his ideas into practice."
+                }
+              ],
+              "answer": "C",
+              "media": "media/M13-T3-ZC.mp3",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "8D99F602E8AD15C277F5D4FB93EB2616",
+              "parent_qid": null,
+              "qtype": 1,
+              "stem": "What will the man probably do next?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "Eat lunch."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "See a doctor."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "Cancel an appointment."
+                }
+              ],
+              "answer": "B",
+              "media": "media/M13-T4-ZC.mp3",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "70812F42E1A6221F66A230371AD9AB7E",
+              "parent_qid": null,
+              "qtype": 1,
+              "stem": "At what age do children start school in Russia?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "Four."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "Six."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "Seven."
+                }
+              ],
+              "answer": "C",
+              "media": "media/M13-T5-ZC.mp3",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "CDCE65C3D800D70401F6FDA883EC2E4E",
+              "parent_qid": null,
+              "qtype": 99,
+              "stem": "听第6段材料，回答第6、7题。",
+              "options": [],
+              "answer": "",
+              "media": "media/M13-T6-ZC.mp3",
+              "source": "2\\page1.js",
+              "is_container": true
+            },
+            {
+              "qid": "C823523063528035D3C3BE0242978C0B",
+              "parent_qid": "CDCE65C3D800D70401F6FDA883EC2E4E",
+              "qtype": 1,
+              "stem": "How can the plate with the picture of Cupid be described?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "Undamaged."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "Modern."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "Empty."
+                }
+              ],
+              "answer": "A",
+              "media": "",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "57BB9CF35730C4B5B891C166C918CBE9",
+              "parent_qid": "CDCE65C3D800D70401F6FDA883EC2E4E",
+              "qtype": 1,
+              "stem": "Where was the statue of Mars found?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "In Italy."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "In Egypt."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "In Spain."
+                }
+              ],
+              "answer": "B",
+              "media": "",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "6C89FFBCA0B69D71B45DF5AA1219F24C",
+              "parent_qid": null,
+              "qtype": 99,
+              "stem": "听第7段材料，回答第8至10题。",
+              "options": [],
+              "answer": "",
+              "media": "media/M13-T7-ZC.mp3",
+              "source": "2\\page1.js",
+              "is_container": true
+            },
+            {
+              "qid": "15EA6F6B0FB6AF487B4B5B0C6243B0DC",
+              "parent_qid": "6C89FFBCA0B69D71B45DF5AA1219F24C",
+              "qtype": 1,
+              "stem": "What skills does Tom hope to develop through the part-time work?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "Problem-solving skills."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "Financial management skills."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "Leadership and communication skills."
+                }
+              ],
+              "answer": "A",
+              "media": "",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "C7ADE6963DFCC85D3E1054F7214C60C1",
+              "parent_qid": "6C89FFBCA0B69D71B45DF5AA1219F24C",
+              "qtype": 1,
+              "stem": "How does the woman feel about Tom’s answer?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "Disappointed."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "Confused."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "Pleased."
+                }
+              ],
+              "answer": "C",
+              "media": "",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "970C44E906FCA3E9B58AD768CF183E8C",
+              "parent_qid": "6C89FFBCA0B69D71B45DF5AA1219F24C",
+              "qtype": 1,
+              "stem": "What does the hotel value most?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "Excellent service."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "Company profits."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "Educational background."
+                }
+              ],
+              "answer": "A",
+              "media": "",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "87B98D5E2BB2AEA0A1073F8E97D68FFB",
+              "parent_qid": null,
+              "qtype": 99,
+              "stem": "听第8段材料，回答第11至13题。",
+              "options": [],
+              "answer": "",
+              "media": "media/M13-T8-ZC.mp3",
+              "source": "2\\page1.js",
+              "is_container": true
+            },
+            {
+              "qid": "6CA7883B360F92D32FF3CDFFFD7D7F74",
+              "parent_qid": "87B98D5E2BB2AEA0A1073F8E97D68FFB",
+              "qtype": 1,
+              "stem": "What was Mrs. Evans doing when she heard a noise?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "She was doing the dishes."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "She was cleaning the table."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "She was tidying the living room."
+                }
+              ],
+              "answer": "B",
+              "media": "",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "0833BF80DC6518818B8691D3820E266F",
+              "parent_qid": "87B98D5E2BB2AEA0A1073F8E97D68FFB",
+              "qtype": 1,
+              "stem": "What did Mrs. Evans see from the window?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "A man looking for something."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "A person cleaning the street."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "A car driving away."
+                }
+              ],
+              "answer": "C",
+              "media": "",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "D2ED315454564EAE9A80D48688E9474F",
+              "parent_qid": "87B98D5E2BB2AEA0A1073F8E97D68FFB",
+              "qtype": 1,
+              "stem": "Who is Mrs. Evans probably talking to?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "A police officer."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "Her neighbor."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "Her husband."
+                }
+              ],
+              "answer": "A",
+              "media": "",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "C6A8C32D8C9207FA15F299A6EA66D2E0",
+              "parent_qid": null,
+              "qtype": 99,
+              "stem": "听第9段材料，回答第14至16题。",
+              "options": [],
+              "answer": "",
+              "media": "media/M13-T9-ZC.mp3",
+              "source": "2\\page1.js",
+              "is_container": true
+            },
+            {
+              "qid": "BAFDBA93EA0054089105B8F617CC65BB",
+              "parent_qid": "C6A8C32D8C9207FA15F299A6EA66D2E0",
+              "qtype": 1,
+              "stem": "What does the woman think of paper in everyday life?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "It is cheap."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "It is useless."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "It is significant."
+                }
+              ],
+              "answer": "C",
+              "media": "",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "B183EA6D9C630051DAC6D11BE2875EEF",
+              "parent_qid": "C6A8C32D8C9207FA15F299A6EA66D2E0",
+              "qtype": 1,
+              "stem": "Who introduced the newly invented paper to the emperor in 105 A.D.？",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "A court official."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "A foreign trader."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "A silk shop owner."
+                }
+              ],
+              "answer": "A",
+              "media": "",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "08BF839680A28A49B95D69CEF0358BB3",
+              "parent_qid": "C6A8C32D8C9207FA15F299A6EA66D2E0",
+              "qtype": 1,
+              "stem": "Why was the “paper” in ancient Egypt different?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "It was quite firm."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "It was easily damaged."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "It was made from silk."
+                }
+              ],
+              "answer": "B",
+              "media": "",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "6777084F88DB2D16F41F106379295104",
+              "parent_qid": null,
+              "qtype": 99,
+              "stem": "听第10段材料，回答第17至20题。",
+              "options": [],
+              "answer": "",
+              "media": "media/M13-T10-ZC.mp3",
+              "source": "2\\page1.js",
+              "is_container": true
+            },
+            {
+              "qid": "F6BC26E869D0650B23EA09B191B1BE46",
+              "parent_qid": "6777084F88DB2D16F41F106379295104",
+              "qtype": 1,
+              "stem": "What is the purpose of the construction of the Panama Canal?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "To generate power from water."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "To serve as a tourist attraction."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "To provide a quick way for ships."
+                }
+              ],
+              "answer": "C",
+              "media": "",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "6AE1E2B801B406246A2CA598C40A5C3F",
+              "parent_qid": "6777084F88DB2D16F41F106379295104",
+              "qtype": 1,
+              "stem": "When was the Panama Canal officially opened?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "In 1881."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "In 1904."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "In 1914."
+                }
+              ],
+              "answer": "C",
+              "media": "",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "25239D6E557E45E201D9241C8EC205D4",
+              "parent_qid": "6777084F88DB2D16F41F106379295104",
+              "qtype": 1,
+              "stem": "Which country has controlled the canal since 1999?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "France."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "Panama."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "America."
+                }
+              ],
+              "answer": "B",
+              "media": "",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "EAEA467B782A42C194E01B4F9417CF9F",
+              "parent_qid": "6777084F88DB2D16F41F106379295104",
+              "qtype": 1,
+              "stem": "Where is the talk probably being given?",
+              "options": [
+                {
+                  "flag": 0,
+                  "id": "A",
+                  "content": "On a ship."
+                },
+                {
+                  "flag": 0,
+                  "id": "B",
+                  "content": "In a university."
+                },
+                {
+                  "flag": 0,
+                  "id": "C",
+                  "content": "At an international organization."
+                }
+              ],
+              "answer": "B",
+              "media": "",
+              "source": "2\\page1.js",
+              "is_container": false
+            },
+            {
+              "qid": "12C524A9DD9469CCD5DA0E57DB1BB2F6",
+              "parent_qid": null,
+              "qtype": 9,
+              "stem": "<p>be formally handed over to</p>",
+              "options": [],
+              "answer": "正式移交",
+              "media": "media/10-ZC.mp3",
+              "source": "1\\questions\\12C524A9DD9469CCD5DA0E57DB1BB2F6\\questionData.js",
+              "is_container": false
+            },
+            {
+              "qid": "32893BF5620CE4A28327DB4ACF65DF19",
+              "parent_qid": null,
+              "qtype": 9,
+              "stem": "<p>support my studies financially</p>",
+              "options": [],
+              "answer": "为我的学业提供经济支持",
+              "media": "media/4-ZC.mp3",
+              "source": "1\\questions\\32893BF5620CE4A28327DB4ACF65DF19\\questionData.js",
+              "is_container": false
+            },
+            {
+              "qid": "39CF5056BE4BBB1779AA1AC188A2D7AA",
+              "parent_qid": null,
+              "qtype": 9,
+              "stem": "<p>Your motivation and willingness to learn are highly appreciated.</p>",
+              "options": [],
+              "answer": "您的积极性和学习意愿备受赞赏。",
+              "media": "media/6-ZC.mp3",
+              "source": "1\\questions\\39CF5056BE4BBB1779AA1AC188A2D7AA\\questionData.js",
+              "is_container": false
+            },
+            {
+              "qid": "3B05D89D41B570078B0933EB1EA34592",
+              "parent_qid": null,
+              "qtype": 9,
+              "stem": "<p>take much notice</p>",
+              "options": [],
+              "answer": "多加留意",
+              "media": "media/7-ZC.mp3",
+              "source": "1\\questions\\3B05D89D41B570078B0933EB1EA34592\\questionData.js",
+              "is_container": false
+            },
+            {
+              "qid": "5B7C6EC05048A53A4F6216EB9D9117D3",
+              "parent_qid": null,
+              "qtype": 9,
+              "stem": "<p>provide a shortcut</p>",
+              "options": [],
+              "answer": "提供一条捷径",
+              "media": "media/9-ZC.mp3",
+              "source": "1\\questions\\5B7C6EC05048A53A4F6216EB9D9117D3\\questionData.js",
+              "is_container": false
+            },
+            {
+              "qid": "8A73B7F497885FD8026A515FAB2DF8AF",
+              "parent_qid": null,
+              "qtype": 9,
+              "stem": "<p>physics department</p>",
+              "options": [],
+              "answer": "物理系",
+              "media": "media/1-ZC.mp3",
+              "source": "1\\questions\\8A73B7F497885FD8026A515FAB2DF8AF\\questionData.js",
+              "is_container": false
+            },
+            {
+              "qid": "AF43938229B2FCB5FEC690364AC77495",
+              "parent_qid": null,
+              "qtype": 9,
+              "stem": "<p>I’ve never bothered to think about it.</p>",
+              "options": [],
+              "answer": "我从来都没想过这个问题。",
+              "media": "media/8-ZC.mp3",
+              "source": "1\\questions\\AF43938229B2FCB5FEC690364AC77495\\questionData.js",
+              "is_container": false
+            },
+            {
+              "qid": "D28300AE8259EC673EC67350B720B640",
+              "parent_qid": null,
+              "qtype": 9,
+              "stem": "<p>place great emphasis on quality service</p>",
+              "options": [],
+              "answer": "高度重视优质服务",
+              "media": "media/5-ZC.mp3",
+              "source": "1\\questions\\D28300AE8259EC673EC67350B720B640\\questionData.js",
+              "is_container": false
+            },
+            {
+              "qid": "DF0E00CCDEEBD098D126956E500148F4",
+              "parent_qid": null,
+              "qtype": 9,
+              "stem": "<p>make an appointment</p>",
+              "options": [],
+              "answer": "预约",
+              "media": "media/3-ZC.mp3",
+              "source": "1\\questions\\DF0E00CCDEEBD098D126956E500148F4\\questionData.js",
+              "is_container": false
+            },
+            {
+              "qid": "E9E8588C9ECE9F297C0C6AB91CD53BEF",
+              "parent_qid": null,
+              "qtype": 9,
+              "stem": "<p>be known as a daydreamer</p>",
+              "options": [],
+              "answer": "被认为是个爱做白日梦的人",
+              "media": "media/2-ZC.mp3",
+              "source": "1\\questions\\E9E8588C9ECE9F297C0C6AB91CD53BEF\\questionData.js",
+              "is_container": false
+            }
+          ]
+        }
+      }
+    }
+  }
+}

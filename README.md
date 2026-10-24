@@ -26,6 +26,10 @@
 `ONEBOT_ACCESS_TOKEN=<刚才获取的TOKEN>` .
 5. 使用 `nb run` 运行 .
 
+## 附录
+
+#`./something_else`目录下存放着解包及更新Up366的程序
+
 ## nonebot文档
 
 See [Docs](https://nonebot.dev/)

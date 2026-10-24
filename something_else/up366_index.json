@@ -1,0 +1,44 @@
+{
+  "books": {
+    "59A0044287BEAB997F7C03AE4B9FC101": {
+      "bookId": "59A0044287BEAB997F7C03AE4B9FC101",
+      "bookName": "听力培优（高中）",
+      "jobs": {
+        "452eb04875384b7c921e46d30cdc626f": {
+          "job_hash": "452eb04875384b7c921e46d30cdc626f",
+          "testName": "10.19-25日听力练习2",
+          "jobName": "10.19-25日听力练习2",
+          "pageId": "b33b0b33f6554c0e9c009e8f3cf4723c",
+          "chapterId": "f153efb1f1584626b3d24c90258e9ecf",
+          "studyTaskId": "894E3E43F600003617A27CC58F008D0C",
+          "source_path": "D:\\Up366StudentFiles\\flipbooks\\59A0044287BEAB997F7C03AE4B9FC101\\452eb04875384b7c921e46d30cdc626f",
+          "decode_path": "D:\\wjhBot\\decode\\59A0044287BEAB997F7C03AE4B9FC101\\452eb04875384b7c921e46d30cdc626f",
+          "status": "extracted",
+          "unmarked": false,
+          "created_at": "2026-10-24T20:03:43.077430",
+          "extracted_at": "2026-10-24T20:03:43.309731",
+          "decrypt_ok": 122,
+          "decrypt_fail": 0,
+          "question_count": 33
+        },
+        "95b49cc75c894acb912837f22825c863": {
+          "job_hash": "95b49cc75c894acb912837f22825c863",
+          "testName": "10.19-25日听力练习1",
+          "jobName": "10.19-25日听力练习1",
+          "pageId": "253a3267194140f09c28feba268993cf",
+          "chapterId": "ee2a780d83b549afbd2f0a027f6e966b",
+          "studyTaskId": "0557C9BFFE1B4BE9A344B0B3203B3AC9",
+          "source_path": "D:\\Up366StudentFiles\\flipbooks\\59A0044287BEAB997F7C03AE4B9FC101\\95b49cc75c894acb912837f22825c863",
+          "decode_path": "D:\\wjhBot\\decode\\59A0044287BEAB997F7C03AE4B9FC101\\95b49cc75c894acb912837f22825c863",
+          "status": "extracted",
+          "unmarked": false,
+          "created_at": "2026-10-24T20:03:43.077451",
+          "extracted_at": "2026-10-24T20:03:43.506961",
+          "decrypt_ok": 128,
+          "decrypt_fail": 0,
+          "question_count": 35
+        }
+      }
+    }
+  }
+}
