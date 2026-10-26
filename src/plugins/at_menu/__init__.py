@@ -72,7 +72,10 @@ def get_this_week():
     today = datetime.today()
     monday = today - timedelta(days=today.weekday())
     sunday = today - timedelta(days=today.weekday() - 6)
-    info = manager.search_jobs(f"{monday.strftime('%m.%d-')}{sunday.strftime('%d')}日听力练习")
+    if sunday.month != monday.month:
+        info = manager.search_jobs(f"{monday.strftime('%#m.%#d-')}{sunday.strftime('%#m.%#d')}日听力练习")
+    else:
+        info = manager.search_jobs(f"{monday.strftime('%#m.%#d-')}{sunday.strftime('%#d')}日听力练习")
     info.sort(key=key2)
     return info
 
